@@ -68,14 +68,14 @@ turtle.left(90)
 
 # Tests de l'énoncé
 
-# (a) Test 1
+#(a) Test 1
 #dessiner_arbre(120, -50, 50, 2, 5, .3, .7, 5)
 
 # (b) Test 2
-dessiner_arbre(120, -10, 10, 2, 2, .4, .99, 5)
+#dessiner_arbre(120, -10, 10, 2, 2, .4, .99, 5)
 
 # (c) Test 3
-#dessiner_arbre(80, -20, 60, 2, 4, .5, .7, 5)
+dessiner_arbre(80, -20, 60, 2, 4, .5, .7, 5)
 
 turtle.update()
 turtle.done()
