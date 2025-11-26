@@ -1,4 +1,7 @@
 
+
+
+
 class KeyPass:
 
     def __init__(self, codePin: list[int]):
@@ -52,24 +55,4 @@ class KeyPass:
                 ligne = f"{cle} : {mdp_chiffre} \n"
                 f.write(ligne)
 
-
-
-
-
-
-
-
-"""
-
-retour pour le prof : 
-    -la diffculté pour certaines méthode était de comprendre les tours de boucle for
-     avec le modulo pour des mots de passe plus long que le code pin.
-
-    -Utiliser la même logique que pour les for et ne pas être limité par les bornes 0 et 256 qui correspond aux nombre
-     totaux des charactères, en continuant a bouclé grace a la division entière.
-    
-    -Après quelques recherche de savoir que l'on pouvait tranformé un caractère en code ascii avec la fonction ordinal
-     pour ensuitele décaler et le retranformé en charactère.
-
-"""
 
