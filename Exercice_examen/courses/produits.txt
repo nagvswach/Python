@@ -1,0 +1,4 @@
+pomme, 65, 1.0
+champignon, 200, 0.5
+poire, 36, 0.9
+pain, 43, 1.5

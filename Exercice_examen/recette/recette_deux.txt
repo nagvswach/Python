@@ -1,0 +1,4 @@
+550, g, farine
+5, unité, oeuf
+0.4, l, passata de tomates
+500, g, mozzarella

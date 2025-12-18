@@ -1,0 +1,4 @@
+0.2, kg, farine
+2, unité, oeuf
+500, ml, lait
+1, pincée, sel

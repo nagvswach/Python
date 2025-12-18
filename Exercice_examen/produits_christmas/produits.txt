@@ -1,0 +1,6 @@
+Club Maté, 10, 0.5
+Souris, 5, 10
+Pommes, 1, 1.5
+Chocolat, 6, 2.5
+Bonbon, 20, 1
+
